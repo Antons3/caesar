@@ -61,7 +61,7 @@ Piemēri:
   
 ## Ieraksti neatbilstošus specifikācijas punktus zemāk un piemini kāpēc tie neatblist
 Šeit:
-
+vajag uzrakstit ka nedrikst ievadit simbolustadi ka ".", ",", "!", "?".
 Izmaiņas saglabā savā repozitorijā (Commit changes).  
 
 ## Uzrādi uzdevumu rezultātu pedagogam  
